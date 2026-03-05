@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>GummyNate — Playlist</title>
+    <link rel="stylesheet" href="gummynatestyles.css" />
+</head>
+
+<body>
+    <header class="site-header">
+        <div class="wrap">
+            <h1 class="brand">GummyNate — Playlist</h1>
+            <nav>
+                <a href="index.html">Home</a>
+                <a href="https://www.youtube.com/channel/@gummynate" target="_blank" rel="noopener">YouTube</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="wrap">
+        <section class="hero">
+            <h2>GummyNate's Playlist</h2>
+            <p>Explore GummyNate's YouTube playlist featuring all the latest gummy bear videos and meme song remixes.
+                Click on the link to watch!</p>
+            <img src="https://i.ytimg.com/vi/MTm249qbF58/hqdefault.jpg" alt="GummyNate Playlist Image" width="560"
+                height="315">
+        </section>
+        <section class="playlist">
+            <a href="https://www.youtube.com/watch?v=MTm249qbF58&list=PLlXZWjD4Rtac__zd7naIBw2K0z020_Gy2"
+                target="_blank" rel="noopener">View Playlist</a>
+            <div id="playlistGrid" class="grid" style="margin-top:20px"></div>
+        </section>
+    </main>
+
+    <div id="modal" class="modal" aria-hidden="true">
+        <div class="modal-content">
+            <button id="closeBtn" class="close">✕</button>
+            <div id="player"></div>
+        </div>
+    </div>
+
+    <script src="js/gummynateplaylist.js"></script>
+</body>
+
+</html>
