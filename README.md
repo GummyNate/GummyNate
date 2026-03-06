@@ -6,10 +6,10 @@ degree and I'm also interested in coin collecting and gemstone/mineral collectin
 specializing in jewelry at a wide range of price points, while also giving back to the community through charities and other special 
 organizations.  My other dream is to benefit people living in poorer areas by paying them by the cost of living instead of by the tiny
 amount recieved by minimum wage.  While minimum wage is good, it's actually extremely low in other places around the world so my plan
-is to support those communities by paying them salaries for the costy of living in that country rather than the minimum wage.
+is to support those communities by paying them salaries for the cost of living in that country rather than the minimum wage.
 I will do this by opening my own quartz mine with safety officers to make sure everyone's safe, paying people by the cost of living 
 each month, and supporting the community at large by doing things like plating apple trees or other fruit trees suitable for growing on 
 desert land.  So that I will not only be supporting the environment, making tons of money, but also helping the community financially with
 things like poverty, foodlessness, and homelessness, just to name a few of the ways I will be helping others through my businesses.  I will
 basically be the MrBeast but with businesses instead of a YouTube channel.  Youtube is kind of just something I do on the side.  Anyways,
-I hope you all have an amazing day and are enjoying the content I'm putting out.  To go to the main homepage, visit Server/index.html.  To go to my playlist, visit Server/gummynateplaylist.html. </p>
+I hope you all have an amazing day and are enjoying the content I'm putting out.  To go to the main homepage, visit  <link rel="index" href="Server/index.html" />.  To go to my playlist, visit <link rel="playlist" href="Server/gummynateplaylist.html" />. </p>
