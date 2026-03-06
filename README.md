@@ -1,4 +1,6 @@
-<h1> About Me </h1>
+<!doctype html>
+<html lang="en">
+    <h1> About Me </h1>
 <head>
     <meta name="referrer" content="strict-origin-when-cross-origin">
     <meta charset="utf-8" />
@@ -20,3 +22,4 @@ desert land.  So that I will not only be supporting the environment, making tons
 things like poverty, foodlessness, and homelessness, just to name a few of the ways I will be helping others through my businesses.  I will
 basically be the MrBeast but with businesses instead of a YouTube channel.  Youtube is kind of just something I do on the side.  Anyways,
 I hope you all have an amazing day and are enjoying the content I'm putting out.  To go to the main homepage, visit  <a href="Server/index.html" class="button"> Home </a>.  To go to my playlist, visit <a href="Server/gummynateplaylist.html" class="button"> GummyNate's Playlist.</a>. </p>
+
