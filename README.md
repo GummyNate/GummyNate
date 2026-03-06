@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1> About Me </h1>
 <p> My name is GummyNate and I'm a person who uploads YouTube videos based on gummy bears and funny meme song remixes from Vermont.  
 All information collected on this site will be sent to GitHub.io's main server but data will never be sold or purchased at any time.  
 Don't forget to subscribe to my YouTube channel at https://www.youtube.com/@gummynate to discover more of my videos.  I recently graduated with my associate's 
@@ -12,4 +12,4 @@ each month, and supporting the community at large by doing things like plating a
 desert land.  So that I will not only be supporting the environment, making tons of money, but also helping the community financially with
 things like poverty, foodlessness, and homelessness, just to name a few of the ways I will be helping others through my businesses.  I will
 basically be the MrBeast but with businesses instead of a YouTube channel.  Youtube is kind of just something I do on the side.  Anyways,
-I hope you all have an amazing day and are enjoying the content I'm putting out.  To go to the main homepage, visit Server/index.html.  To go to my playlist, visit  </p>
+I hope you all have an amazing day and are enjoying the content I'm putting out.  To go to the main homepage, visit Server/index.html.  To go to my playlist, visit Server/gummynateplaylist.html.  Finally, to visit the  </p>
