@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
     <h1> About Me </h1>
 <head>
