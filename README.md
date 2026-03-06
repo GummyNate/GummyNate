@@ -1,4 +1,12 @@
 <h1> About Me </h1>
+<head>
+    <meta name="referrer" content="strict-origin-when-cross-origin">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>GummyNate — Gummy Bear Videos & Meme Song Remixes</title>
+    <meta name="description" content="GummyNate: Gummy Bear Videos & Meme Song Remixes." />
+    <link rel="stylesheet" href="css/gummynatestyles.css" />
+</head>
 <p> My name is GummyNate and I'm a person who uploads YouTube videos based on gummy bears and funny meme song remixes from Vermont.  
 All information collected on this site will be sent to GitHub.io's main server but data will never be sold or purchased at any time.  
 Don't forget to subscribe to my YouTube channel at https://www.youtube.com/@gummynate to discover more of my videos.  I recently graduated with my associate's 
