@@ -3,7 +3,6 @@
     <meta name="referrer" content="strict-origin-when-cross-origin">
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>GummyNate — Gummy Bear Videos & Meme Song Remixes</title>
     <meta name="description" content="GummyNate: Gummy Bear Videos & Meme Song Remixes." />
     <link rel="stylesheet" href="css/gummynatestyles.css" />
 </head>
