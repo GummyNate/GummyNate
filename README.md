@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p> My name is GummyNate and I'm a person who uploads YouTube videos based on gummy bears and funny meme song remixes from Vermont.  
 All information collected on this site will be sent to GitHub.io's main server but data will never be sold or purchased at any time.  
-Don't forget to subscribe to my YouTube channel @GummyNate to discover more of my videos.  I recently graduated with my associate's 
+Don't forget to subscribe to my YouTube channel at https://www.youtube.com/@gummynate to discover more of my videos.  I recently graduated with my associate's 
 degree and I'm also interested in coin collecting and gemstone/mineral collecting.  My hope is to someday open my own jewelry store 
 specializing in jewelry at a wide range of price points, while also giving back to the community through charities and other special 
 organizations.  My other dream is to benefit people living in poorer areas by paying them by the cost of living instead of by the tiny
