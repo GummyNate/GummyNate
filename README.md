@@ -6,6 +6,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="description" content="GummyNate: Gummy Bear Videos & Meme Song Remixes." />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2211183523730987"
+     crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/gummynatestyles.css" />
 </head>
 <p> My name is GummyNate and I'm a person who uploads YouTube videos based on gummy bears and funny meme song remixes from Vermont.   
