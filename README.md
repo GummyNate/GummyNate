@@ -10,6 +10,7 @@
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="description" content="GummyNate: Gummy Bear Videos & Meme Song Remixes." />
     <link rel="stylesheet" href="css/gummynatestyles.css" />
+    <a href= "google.com, pub-2211183523730987, DIRECT, f08c47fec0942fa0"></a>
 </head>
 <p> My name is GummyNate and I'm a person who uploads YouTube videos based on gummy bears and funny meme song remixes from Vermont.   
 Don't forget to subscribe to my YouTube channel at https://www.youtube.com/@gummynate to discover more of my videos.  I'm also interested in coin collecting and gemstone/mineral collecting.  My hope is to someday open my own jewelry store 
