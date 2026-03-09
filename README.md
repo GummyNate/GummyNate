@@ -18,7 +18,7 @@
             <h1 class="brand">GummyNate — Playlist</h1>
             <nav>
                 <a href="index.html">Home</a>
-                <a href="https://www.youtube.com/@gummynate">YouTube</a>
+                <a href="gummynateplaylist.html">Playlist</a>
                 <a href="README.md">About Me</a>
             </nav>
         </div>
