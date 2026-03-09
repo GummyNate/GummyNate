@@ -15,7 +15,7 @@
     <body>
     <header class="site-header">
         <div class="wrap">
-            <h1 class="brand">GummyNate — Playlist</h1>
+            <h2 class="brand">GummyNate — Playlist</h2>
             <nav>
                 <a href="index.html">Home</a>
                 <a href="gummynateplaylist.html">Playlist</a>
