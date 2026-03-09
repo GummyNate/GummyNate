@@ -19,7 +19,6 @@
             <nav>
                 <a href="index.html">Home</a>
                 <a href="gummynateplaylist.html">Playlist</a>
-                <a href="README.md">About Me</a>
             </nav>
         </div>
     </header>
