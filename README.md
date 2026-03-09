@@ -7,10 +7,10 @@
     <meta name="google-adsense-account" content="ca-pub-2211183523730987">
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="description" content="GummyNate: Gummy Bear Videos & Meme Song Remixes." />
-    <link rel="stylesheet" href="css/gummynatestyles.css" />
     <a href= "google.com, pub-2211183523730987, DIRECT, f08c47fec0942fa0"></a>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2211183523730987"
      crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/gummynatestyles.css" />
 </head>
     <body>
     <header class="site-header">
