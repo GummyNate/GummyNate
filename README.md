@@ -16,10 +16,6 @@
     <header class="site-header">
         <div class="wrap">
             <h1 class="brand">GummyNate</h1>
-            <nav>
-                <a href="index.html">Home</a>
-                <a href="gummynateplaylist.html">Playlist</a>
-            </nav>
         </div>
     </header>
 <p> My name is GummyNate and I'm a person who uploads YouTube videos based on gummy bears and funny meme song remixes from Vermont.   
