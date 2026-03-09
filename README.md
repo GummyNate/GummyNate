@@ -1,5 +1,6 @@
 
 <html lang="en">
+    <body>
     <h1> About Me </h1>
 <head>
     <meta name="referrer" content="strict-origin-when-cross-origin">
@@ -15,5 +16,8 @@ Don't forget to subscribe to my YouTube channel at https://www.youtube.com/@gumm
 specializing in jewelry at a wide range of price points, while also giving back to the community through charities and other special 
 organizations.  Anyways,
 I hope you all have an amazing day and are enjoying the content I'm putting out. </p>  <p>To go to the main homepage, visit  <a href="Server/index.html" class="button"> Home </a>.  To go to my playlist, visit <a href="Server/gummynateplaylist.html" class="button"> GummyNate's Playlist.</a> </p>
-</html>.
+    <script src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2211183523730987"
+     crossorigin="anonymous"></script>
+</html>
+    </body>.
 
