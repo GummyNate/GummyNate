@@ -28,5 +28,5 @@ Don't forget to subscribe to my YouTube channel at https://www.youtube.com/@gumm
 specializing in jewelry at a wide range of price points, while also giving back to the community through charities and other special 
 organizations.  Anyways, I hope you all have an amazing day and are enjoying the content I'm putting out.
     </body>
-</html>.
+</html>
 
